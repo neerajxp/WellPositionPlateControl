@@ -1,0 +1,8 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <ResourceDictionary.MergedDictionaries>
+        <!--<ResourceDictionary Source="pack://application:,,,/PlateControl;component/Themes/Generic.xaml" />-->
+        <!--<ResourceDictionary Source="/PlateControl;component/Themes/WellPositionControlStyle.xaml" />-->
+        <!--<ResourceDictionary Source="/PlateControl;component/Themes/RectanglePlateControlStyle.xaml" />-->
+    </ResourceDictionary.MergedDictionaries>
+</ResourceDictionary>

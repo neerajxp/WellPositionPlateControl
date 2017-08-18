@@ -1,0 +1,9 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:System="clr-namespace:System;assembly=mscorlib">
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="/Themes/Styles/UserControls/PlateControls/WellPositionControlStyles.xaml" />
+        <ResourceDictionary Source="/Themes/Styles/UserControls/PlateControls/RotorgenePlateControlStyles.xaml" />
+        <ResourceDictionary Source="/Themes/Styles/UserControls/PlateControls/RectanglePlateControlStyles.xaml" />
+    </ResourceDictionary.MergedDictionaries>
+</ResourceDictionary>
